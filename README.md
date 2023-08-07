@@ -1,14 +1,4 @@
-# Shoppy - Admin Dashboard using React JS
-
-![A React JS Admin Dashboard](https://user-images.githubusercontent.com/71302066/176727220-9b5f7361-65df-480b-8f85-758954bddfd5.png "A React JS Admin Dashboard")
-
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/admin-dashboard)](https://github.com/Technical-Shubham-tech/admin-dashboard/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/admin-dashboard/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/admin-dashboard/)](https://github.com/Technical-Shubham-tech/admin-dashboard/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/admin-dashboard/main)](https://github.com/Technical-Shubham-tech/admin-dashboard/commits "Github commits")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6aeb1ab3-871d-48c0-bc09-2e1fcaef0c2b/deploy-status)](https://shoppy-dashboard-react.netlify.app/ "Netlify Status")
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/admin-dashboard)](https://github.com/Technical-Shubham-tech/admin-dashboard/issues "GitHub issues")
+# H - Admin Dashboard using React JS
 
 ## ⚠️ Before you start
 
@@ -59,34 +49,8 @@
 
 ![Theme Color Support](https://user-images.githubusercontent.com/71302066/176737750-281c85a5-389e-424f-9f43-a711b7e93b78.png "Theme Color Support")
 
-## 📃 Built with
 
-[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150" height="40" />](https://www.javascript.com/ "JavaScript")
 
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="150" />](https://reactjs.org/ "React JS")
-
-[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="150" height="40" />](https://tailwindcss.com/ "Tailwind CSS")
-
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech "Built with Love")
-
-## 🔧 Stats
-
-![Stats for this App](https://user-images.githubusercontent.com/71302066/175766396-a33b67dc-57d3-4fe6-8b5a-4072066b70d5.svg "Stats for this App")
-
-## 🙌🏼 Contribute
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
-
-## Buy Me a Coffee 🍺
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
-## 🚀 Follow Me
-
-[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTechnical-Shubham-tech%2Fmedical-chat-app)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw)
-
-## ⭐ Give A Star
-
-You can also give this repository a star to show more people and they can use this repository.
+tory a star to show more people and they can use this repository.
