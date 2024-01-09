@@ -41,7 +41,7 @@
 
 ## :camera: Screenshots:
 
-![Dark Mode](https://user-images.githubusercontent.com/71302066/176737134-626ab7b9-dd4b-4af2-a6ac-343123d6c5c1.png "Dark Mode")
+
 
 ![Different Apps](https://user-images.githubusercontent.com/71302066/176737379-5884f2d3-7a62-4514-a2b9-caa530c048f4.png "Different Apps")
 
